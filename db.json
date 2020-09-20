@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Bulbasaur ",
+      "hp": 45,
+      "sprites": {
+        "front": "https://icon2.cleanpng.com/20190220/pov/kisspng-bulbasaur-portable-network-graphics-image-ivysaur-5c6de5a870b218.2045862415507060884616.jpg",
+        "back": "https://icon2.cleanpng.com/20190220/pov/kisspng-bulbasaur-portable-network-graphics-image-ivysaur-5c6de5a870b218.2045862415507060884616.jpg"
+      },
+      "id": 151
     }
   ]
 }
